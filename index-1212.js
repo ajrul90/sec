@@ -1,33 +1,45 @@
-//syntax || semantics
 
-//FUNCTION
+// DATATYPE
+// - number, string, boolean, array, ~ object
+
+// syntax || semantics
+
+// FUNCTIONS
 // function definition
+// function declaration
+function whileLoop(numberInputTwo) {
+    while(numberInputTwo < 10) {
+        if (numberInputTwo === -8) {
+            return numberInputTwo;
+        }
 
-//===========================================
-// function declaration - const, let, var
+        numberInputTwo++;
+        console.log(numberInputTwo);
+    }
+}
 
-//function someMathCalculation (numberInputOne, number2) {
-  //  const number3 = 3
-    //console.log(number3);
 
-//    if (number3 <= 5) {
-  //      const number4 = 4
-    //    console.log(number4);
-//    }
-   //     return numberInputOne + number2 + number3;
-//}
-//console.log(someMathCalculation (1,2))
+function isNumberOneBiggerThanNumberTwo( numberInputTwo) {
+    for (let i = numberInputTwo; i < 10; i++) {
+        if (numberInputTwo === -8) {
+            break;
+        }
+        numberInputTwo++
+        console.log(`i value = ${i}, numberInputTwo value ${numberInputTwo}`)
+    }
+    return numberInputTwo
+}
 
-//=====================================================
-//Control Structure - if , else
 
-//function isNumberOneBiggerThanTwo(numberInputOne, numberInputTwo) {
- //   if (numberInputOne > numberInputTwo) {
- //       return true;
- //   } else {
- //       return false;
- //   }
-//}
+const output = isNumberOneBiggerThanNumberTwo(5);
+console.log(`This is console value ${output}`);
 
-//console.log(isNumberOneBiggerThanTwo(11,22));
 
+
+
+
+// Print first 5 even number starting from 1;
+
+
+// SCOPE
+// OBJECT + PROTOTYPE
