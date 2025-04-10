@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f81fa6e7-6771-49c7-af73-bcdabfd08e55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/20250121/full-app/src/components/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20250121/full-app/src/components/FetchPosts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20250121/full-app/src/components/ToggleVisibility.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20250121/full-app/src/components/UserProfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20250121/full-app/src/use/LanguageContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20250123/todo-app/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20250123/todo-app/src/util/constants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/app/temperature/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/20250116/intro-app/src/component/Counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/component/Loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/20250116/intro-app/src/component/GreetingClass.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/component/Location.js" beforeDir="false" afterPath="$PROJECT_DIR$/20250116/intro-app/src/component/Greetings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/component/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/20250123/todo-app/src/components/Todo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/component/WeatherDisplay.js" beforeDir="false" afterPath="$PROJECT_DIR$/20250123/todo-app/src/components/TodoList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/context/LocationProvider.js" beforeDir="false" afterPath="$PROJECT_DIR$/20250123/todo-app/src/context/TodoContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/context/WeatherProvider.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2tDPvdodqXpBsNYllJJCDLKF9fi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "Node.js.Greetings.js.executor": "Run",
+    "Node.js.Weather.js.executor": "Run",
+    "Node.js.WeatherDisplay.js.executor": "Run",
+    "Node.js.WhetherProvider.js.executor": "Run",
+    "Node.js.index.js.executor": "Debug",
+    "Node.js.layout.js.executor": "Run",
+    "Node.js.page.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ajrul/WebstormProjects/SEC TRIAL",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.assignment-2.executor": "Run",
+    "npm.dev.executor": "Run",
+    "npm.start.executor": "Run",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\ajrul\\WebstormProjects\\SEC TRIAL\\20250123\\todo-app\\node_modules\\prettier",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ajrul\WebstormProjects\SEC TRIAL\20250123\todo-app\src" />
+      <recent name="C:\Users\ajrul\WebstormProjects\SEC TRIAL\20250123\todo-app" />
+      <recent name="C:\Users\ajrul\WebstormProjects\SEC TRIAL\20250121\full-app\src" />
+      <recent name="C:\Users\ajrul\WebstormProjects\SEC TRIAL\20250121\full-app\src\app" />
+      <recent name="C:\Users\ajrul\WebstormProjects\SEC TRIAL\20250121" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="Greetings.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Greetings.js" working-dir="$PROJECT_DIR$/20250116/intro-app/src/component">
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/20250123/todo-app/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.Greetings.js" />
+      <item itemvalue="npm.dev" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Greetings.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.120" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f81fa6e7-6771-49c7-af73-bcdabfd08e55" name="Changes" comment="" />
+      <created>1739883904222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739883904222</updated>
+      <workItem from="1739883905370" duration="2132000" />
+      <workItem from="1740068494070" duration="10665000" />
+      <workItem from="1740240136527" duration="6652000" />
+      <workItem from="1740246971678" duration="5766000" />
+      <workItem from="1740253110795" duration="655000" />
+      <workItem from="1740371292541" duration="1385000" />
+      <workItem from="1741700980744" duration="639000" />
+      <workItem from="1741710389473" duration="910000" />
+      <workItem from="1741711320255" duration="9342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
