@@ -1,0 +1,93 @@
+/* Layout utama */
+.container {
+  display: flex;
+  height: 100vh;
+  background-color: #808080;
+  color: white;
+}
+
+/* Sidebar kiri */
+.sidebar {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+  border-right: 2px solid white;
+}
+
+/* Butang tab */
+.tabButton {
+  background-color: transparent;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+  text-align: left;
+}
+
+.tabButton:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.activeTab {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+}
+
+/* Ruang kandungan utama */
+.mainContent {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+/* Input dan butang */
+.inputContainer {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid white;
+  background-color: transparent;
+  color: white;
+  outline: none;
+}
+
+.submitButton {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.submitButton:hover {
+  background-color: #0056b3;
+}
+
+/* Paparan data cuaca */
+.weatherDisplay {
+  text-align: center;
+}
+
+.bigTemperature {
+  font-size: 80px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.weatherItem {
+  font-size: 18px;
+  margin: 5px 0;
+}

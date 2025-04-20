@@ -1,0 +1,45 @@
+.container {
+    width: 250px; /* Tetapkan lebar kalkulator */
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #f9f9f9;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    height: 50px;
+    font-size: 24px;
+    text-align: right;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding-right: 10px;
+}
+
+.input-containers {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 kolum sama lebar */
+    gap: 5px;
+    justify-content: center;
+}
+
+button {
+    width: 100%; /* Semua butang sama lebar */
+    height: 60px; /* Saiz tetap untuk elak jadi panjang */
+    font-size: 20px;
+    border: none;
+    background-color: #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #bbb;
+}
+
+button:active {
+    background-color: #999;
+}
